@@ -105,4 +105,18 @@
         <priority>1.0</priority>
         <!-- Lewis Capaldi - Someone You Loved (가사/번역) -->
     </url>
+    <url>
+        <loc>https://stillhungry.tistory.com/entry/learn-english-with-music-frozen2-ost-into-the-unknown</loc>
+        <lastmod>2019-12-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- [음악으로 배우는 영어] Idina Menzel, AURORA - Into the Unknown (Frozen 2 OST)(가사/번역) -->
+    </url>
+    <url>
+        <loc>https://stillhungry.tistory.com/entry/anne-marie-2002-korean-lyrics</loc>
+        <lastmod>2019-12-19</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- [음악으로 배우는 영어] Anne Marie - 2002 (가사/번역) -->
+    </url>
 </urlset>
