@@ -1148,4 +1148,32 @@
         <priority>1.0</priority>
         <!-- Node.js + Express 사용해서 서버 사용하는 방법 -->
     </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/auto-update-nodejs-server-without-restarting</loc>
+        <lastmod>2019-12-20</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- Node.js  서버 업데이트할때 자동으로 재시작 하는 방법 -->
+    </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/code-command-is-not-working-on-mac-how-to-solve</loc>
+        <lastmod>2019-12-23</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- 맥 터미널에서 code 명령어가 실행이 안되는 경우 해결 방법 -->
+    </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/nodejs-how-to-calculate-two-numbers</loc>
+        <lastmod>2019-12-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- Node.js로 두 숫자의 합을 구하는 방법(POST, Body-parser) -->
+    </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/how-to-calculate-bmi-using-nodejs</loc>
+        <lastmod>2019-12-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- Node.js로 신체질량지수(BMI) 계산하는 방법 -->
+    </url>
 </urlset>
