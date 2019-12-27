@@ -1176,4 +1176,53 @@
         <priority>1.0</priority>
         <!-- Node.js로 신체질량지수(BMI) 계산하는 방법 -->
     </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/nodejs-how-to-use-console-repl</loc>
+        <lastmod>2019-12-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- Node.js 콘솔(REPL) 사용하는 방법 -->
+    </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/nodejs-filesystem-writefilesync-appendfilesync</loc>
+        <lastmod>2019-12-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- Node.js 파일 생성,수정,확장 방법(writeFileSync, appendFileSync) -->
+    </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/nodejs-how-to-use-custom-module</loc>
+        <lastmod>2019-12-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- Node.js로 직접 모듈 만들어 사용하는 방법 -->
+    </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/nodejs-validator-npm-email-url-format-validator</loc>
+        <lastmod>2019-12-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- Node.js에서 validator npm 모듈 사용하는 방법 (이메일 형식, URL 형식 확인) -->
+    </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/nodejs-how-to-use-chalk-module</loc>
+        <lastmod>2019-12-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- Node.js에서 chalk npm 모듈 사용하는 방법 -->
+    </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/nodejs-user-input-command-process-argv</loc>
+        <lastmod>2019-12-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- Node.js에서 추가 명령어 받아 처리하는 방법(process.argv) -->
+    </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/nodejs-how-to-use-yargs-module</loc>
+        <lastmod>2019-12-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- Node.js에서 yargs npm 모듈 사용하는 방법 -->
+    </url>
 </urlset>
