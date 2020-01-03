@@ -1225,4 +1225,39 @@
         <priority>1.0</priority>
         <!-- Node.js에서 yargs npm 모듈 사용하는 방법 -->
     </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/python-list-words-split-sort-join-title</loc>
+        <lastmod>2020-01-02</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- Python - 리스트의 문장 단어 정렬하는 방법(split,sorted,join,title) -->
+    </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/nodejs-json-create-store-read-update</loc>
+        <lastmod>2020-01-02</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- Node.js에서 JSON 파일에 데이터를 저장하고 읽는 방법 -->
+    </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/nodejs-json-readfilesync-push-writefilesync</loc>
+        <lastmod>2020-01-02</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- Node.js에서 JSON 데이터 추가하는 방법(readFileSync, push, writeFileSync) -->
+    </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/nodejs-arrow-function-how-to-use-object-property-function</loc>
+        <lastmod>2020-01-03</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- Node.js에서 Arrow function 사용하는 방법 -->
+    </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/nodejs-notes-app-create-list-read-remove</loc>
+        <lastmod>2020-01-03</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- Node.js를 사용해서 Notes 앱 만드는 방법 -->
+    </url>
 </urlset>
