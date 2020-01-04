@@ -1260,4 +1260,11 @@
         <priority>1.0</priority>
         <!-- Node.js를 사용해서 Notes 앱 만드는 방법 -->
     </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/jquery-tab-ui-how-to-code</loc>
+        <lastmod>2020-01-04</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- jQuery로 Tab UI 구현하는 방법 -->
+    </url>
 </urlset>
