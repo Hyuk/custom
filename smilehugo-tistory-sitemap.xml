@@ -1267,4 +1267,11 @@
         <priority>1.0</priority>
         <!-- jQuery로 Tab UI 구현하는 방법 -->
     </url>
+    <url>
+        <loc>https://smilehugo.tistory.com/entry/obs-display-capture-how-to-set-nvidia-setting</loc>
+        <lastmod>2020-01-05</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <!-- OBS 디스플레이 캡쳐가 안될 때 해결방법(NVIDIA) -->
+    </url>
 </urlset>
